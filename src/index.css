@@ -1,0 +1,20 @@
+body{
+    background: hsla(309, 77%, 40%, 1);
+    height:1000px;
+
+background: linear-gradient(270deg, hsla(309, 77%, 40%, 1) 0%, hsla(276, 91%, 38%, 1) 20%, hsla(268, 88%, 36%, 1) 40%, hsla(263, 87%, 35%, 1) 60%, hsla(258, 86%, 34%, 1) 80%, hsla(243, 57%, 50%, 1) 100%);
+
+background: -moz-linear-gradient(270deg, hsla(309, 77%, 40%, 1) 0%, hsla(276, 91%, 38%, 1) 20%, hsla(268, 88%, 36%, 1) 40%, hsla(263, 87%, 35%, 1) 60%, hsla(258, 86%, 34%, 1) 80%, hsla(243, 57%, 50%, 1) 100%);
+
+background: -webkit-linear-gradient(270deg, hsla(309, 77%, 40%, 1) 0%, hsla(276, 91%, 38%, 1) 20%, hsla(268, 88%, 36%, 1) 40%, hsla(263, 87%, 35%, 1) 60%, hsla(258, 86%, 34%, 1) 80%, hsla(243, 57%, 50%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#b5179e", endColorstr="#7209b7", GradientType=1 );
+
+/* overflow:hidden; */
+}
+
+
+
+
+
+

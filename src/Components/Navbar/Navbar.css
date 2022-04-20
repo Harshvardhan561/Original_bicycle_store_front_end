@@ -1,0 +1,50 @@
+.div{
+    /* background-color: white;     */
+    font-weight: 1000px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+    margin-left:570px;
+    margin-top: 0.5rem;
+    
+}
+.ul  li {
+    
+    list-style: none;
+    font-weight: 1000px;
+    display: inline;
+    padding: 40px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+li a:hover{
+    color: beige;
+}
+
+button{
+    border-radius:1.5px;
+    height:30px;
+    width:100px;
+    background: hsla(217, 100%, 50%, 1);
+
+    background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#0061FF", endColorstr="#60EFFF", GradientType=1 );
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000px;
+}
+li button{
+    font-weight:bolder;
+}
+
+
+

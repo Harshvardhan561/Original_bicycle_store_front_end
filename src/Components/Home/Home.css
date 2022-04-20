@@ -1,0 +1,46 @@
+.container{
+    margin-top: 100px;
+    
+}
+
+.div1{
+  
+    padding-left: 450px;
+    padding-right: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    color: aliceblue;
+}
+
+ .div2{
+     margin-top: 100px;
+    padding-left: 450px;
+    padding-right: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    color: aliceblue; 
+} 
+
+.div3{
+    margin-top: 100px;
+    padding-left: 450px;
+    padding-right: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    color: aliceblue; 
+}
