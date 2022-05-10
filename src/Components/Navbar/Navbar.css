@@ -2,7 +2,7 @@
     /* background-color: white;     */
     font-weight: 1000px;
     font-family: 'Lato', sans-serif;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-left:570px;
     margin-top: 0.5rem;
     
@@ -20,6 +20,11 @@ li a{
     color: white;
     font-weight: bolder;
 }
+
+.signin , .signup{
+    color: white; 
+}
+
 li a:hover{
     color: beige;
 }

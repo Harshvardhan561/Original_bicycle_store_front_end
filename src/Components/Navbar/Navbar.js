@@ -13,22 +13,22 @@ function Navbar()
        <li><Link to="/services">Services</Link></li>  
        <li><Link to="/blogs">Blogs</Link></li>  
        <li><Link to="/about">About</Link></li>   
-       <li><motion.button
+       <li><Link to="/Sign_in"  ><motion.button className="signin"
          whileHover={{
              scale:1.7,
              textShadow:"0px 0px 8px rgb(255,255,255)",
              boxShadow:"0px 0px 8px rgb(255,255,255)"
          }}
        
-       ><Link to="/Sign_in" >Sign in</Link></motion.button></li>
-       <li><motion.button
+       >Sign in</motion.button></Link></li>
+       <li><Link to="/Sign_up"  ><motion.button className="signup"
          whileHover={{
              scale:1.7,
              textShadow:"0px 0px 8px rgb(255,255,255)",
              boxShadow:"0px 0px 8px rgb(255,255,255)"
          }}
        
-       ><Link to="/Sign_up" >Sign up</Link></motion.button></li>
+       >Sign up</motion.button></Link></li>
     </ul> 
     
     </div>   
